@@ -6,9 +6,9 @@ namespace mock.depart.Services
 {
 	public class CatsService : BaseService<Cat>
 	{
-        private static Random random = new Random();
+		private static Random random = new Random();
 
-        public CatsService()
+		public CatsService()
 		{
 		}
 
